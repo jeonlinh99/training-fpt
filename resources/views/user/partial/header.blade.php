@@ -10,7 +10,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-                <a class="nav-link" href="{{ route('home.home') }}">Saff Training<span
+                <a class="nav-link" href="{{ route('home.home') }}">Training Staff <span
                         class="sr-only">(current)</span></a>
             </li>
         </ul>
